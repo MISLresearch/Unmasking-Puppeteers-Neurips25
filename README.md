@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing
 
 **Paper Accepted at NeurIPS 2025**
