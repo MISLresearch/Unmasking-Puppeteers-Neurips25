@@ -1,0 +1,21 @@
+# Keep these files LOCAL ONLY - don't push to GitHub
+models/
+losses/
+data/
+training/
+inference/
+utils/
+scripts/
+configs/
+tests/
+docs/
+setup.py
+requirements.txt
+__pycache__/
+*.pyc
+*.pth
+*.ckpt
+experiments/
+checkpoints/
+logs/
+results/

@@ -1,0 +1,61 @@
+CUSTOM RESEARCH LICENSE
+
+Copyright (c) 2025 [Danial Samadi Vahdati- Drexel University]
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+   "Software" refers to the source code, documentation, and related materials
+   "Research Use" means use for academic or non-commercial research purposes
+   "Commercial Use" means use for commercial advantage or monetary compensation
+
+2. GRANT OF LICENSE
+
+   2.1 Research Use (FREE)
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this Software for Research Use, subject to the following conditions:
+
+   a) This copyright notice and license shall be included in all copies
+   b) The Software may be used, copied, and modified for Research Use only
+   c) Publications using this Software must cite the original paper (see README)
+   d) Derivative works must also carry this license
+
+   2.2 Commercial Use (REQUIRES PERMISSION)
+   Commercial Use of this Software is PROHIBITED without prior written permission.
+   Contact the copyright holders for licensing inquiries.
+
+3. RESTRICTIONS
+   
+   a) You may NOT use this Software for Commercial Use without permission
+   b) You may NOT sublicense or sell copies of this Software
+   c) You may NOT remove or alter copyright notices
+   d) You MUST cite the original paper in any published research
+
+4. CITATION REQUIREMENT
+
+   Any academic publication, presentation, or research output using this Software
+   must include the following citation:
+   @article{vahdati2025unmasking,
+  title={Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing},
+  author={Vahdati, Danial Samadi and Nguyen, Tai Duc and Prashnani, Ekta and Nagano, Koki and Luebke, David and Gallo, Orazio and Stamm, Matthew},
+  journal={arXiv preprint arXiv:2510.03548},
+  year={2025}
+}
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+   OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+6. CONTACT FOR COMMERCIAL LICENSING
+
+   For commercial licensing inquiries, contact:
+   Email: ds3729@drexel.edu
+   
+---
+
+SUMMARY:
+✅ FREE for academic/research use (must cite paper)
+❌ Commercial use requires written permission
+📧 Contact us for licensing: ds3729@drexel.edu
