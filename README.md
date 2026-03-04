@@ -44,13 +44,12 @@ If you use this work in your research, please cite:
 }
 ```
 
-## License
+## ⚖️ License & Citation
 
-This work is licensed under a **Custom Research License**. See [LICENSE](LICENSE) file for details.
-
-**TL;DR:**
-- ✅ Free for academic research (with citation)
-- ❌ Commercial use requires permission
+### Licensing
+This software is licensed under the **PolyForm Noncommercial License 1.0.0**. 
+* **Research & Academic Use:** Free and encouraged!
+* **Commercial Use:** **Strictly prohibited** without prior written permission.
 - 📧 Contact us for licensing inquiries
 
 ## Contact
