@@ -3,7 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Vahdati"
     given-names: "Danial Samadi"
-    affiliation: "Drexel University"
   - family-names: "Nguyen"
     given-names: "Tai Duc"
   - family-names: "Prashnani"
@@ -14,9 +13,9 @@ authors:
     given-names: "Orazio"
   - family-names: "Stamm"
     given-names: "Matthew"
-title: "Unmasking Puppeteers: Leveraging Biometric Leakage to Expose Impersonation in AI-Based Videoconferencing"
+title: "Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing"
+version: 1.0.0
 date-released: 2025-10-23
-url: "https://github.com/YourUsername/YourRepoName"
 preferred-citation:
   type: conference-paper
   authors:
@@ -32,6 +31,6 @@ preferred-citation:
       given-names: "Orazio"
     - family-names: "Stamm"
       given-names: "Matthew"
-  title: "Unmasking Puppeteers: Leveraging Biometric Leakage to Expose Impersonation in AI-Based Videoconferencing"
+  title: "Unmasking Puppeteers: Leveraging Biometric Leakage to Disarm Impersonation in AI-based Videoconferencing"
   collection-title: "The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)"
   year: 2025
